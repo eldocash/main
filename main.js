@@ -2,7 +2,7 @@
 
 // Variables
 const DEP = document.querySelectorAll('.departments');
-DEP[0].value = 1.52; //CE
+DEP[0].value = 1.53; //CE
 DEP[1].value = 2.04; //PE
 DEP[2].value = 1.52; //MDA
 DEP[3].value = 2.31; //SDA
